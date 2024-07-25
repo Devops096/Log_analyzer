@@ -1,0 +1,7 @@
+pandas
+mattplotloib
+  
+  pip install -r requiements.txt
+  ## Usage
+  Run the log analyzer with the followind command:
+   python log_analyzer.py<log_file_path> <report_file_path>
