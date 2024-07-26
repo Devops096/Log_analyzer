@@ -1,0 +1,1 @@
+pyton log_analyzer.py logs/sample.log report.txt
